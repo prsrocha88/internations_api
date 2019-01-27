@@ -9,7 +9,7 @@ A Symfony project.
 * Pull vendor dependencies:
  ```composer install```
 
-##Routes
+## Routes
 
 - GET /users - get all users
 - GET /users/{id} - get specific user by id
